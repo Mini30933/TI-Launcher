@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.spec
+.venv/
+venv/
+build/
+dist/
+.idea/
+.vscode/
+
+# The prebuilt executable is distributed as a release asset.
+TI_Launcher.exe
